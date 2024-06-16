@@ -1,0 +1,8 @@
+requests
+setuptools
+fastapi
+uvicorn
+httpx
+pytest
+sqlalchemy
+psycopg2
